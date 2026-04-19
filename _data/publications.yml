@@ -1,0 +1,179 @@
+intro: "Selected papers are listed first. Equal contribution/Corresponding author is marked with *."
+
+sections:
+  - title: "Selected Publications"
+    items:
+      - title: "GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution"
+        authors_html: "Qiaosi Yi, <strong>Shuai Li</strong>, Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang, Lei Zhang."
+        venue: "CVPR 2026"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "Mamba-ISTD: Multi-context Hierarchical Aggregation Mamba for Robust Infrared Small Target Detection"
+        authors_html: "Lingyan Ran, Yiting Wu, <strong>Shuai Li*</strong>, Yanning Zhang."
+        venue: "Engineered Science, 2026"
+        tags: ["Q1"]
+        paper:
+        code:
+
+      - title: "ADIL: Adaptive Dual Imitation Learning for Real-time Object Detection in Remote Sensing Images"
+        authors_html: "Lin Li, Wandong Luo, Yingjie Zhang, <strong>Shuai Li*</strong>, Peng Wang."
+        venue: "IEEE TGRS, 2026"
+        tags: ["CCF-B", "Q1"]
+        paper:
+        code:
+
+      - title: "DPO-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution"
+        authors_html: "Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang, Shihao Wang, Tianhe Wu, Qiaosi Yi, <strong>Shuai Li</strong>, Lei Zhang."
+        venue: "NeurIPS 2025"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "DNAEdit: Direct Noise Alignment for Text-Guided Rectified Flow Editing"
+        authors_html: "Chenxi Xie, Minghan Li, <strong>Shuai Li</strong>, Yuhui Wu, Qiaosi Yi, Lei Zhang."
+        venue: "NeurIPS 2025"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "Fine-structure Preserved Real-world Image Super-resolution via Transfer VAE Training"
+        authors_html: "Qiaosi Yi, <strong>Shuai Li</strong>, Rongyuan Wu, Lingchen Sun, Yuhui Wu, Lei Zhang."
+        venue: "ICCV 2025"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "Dual-Rate Dynamic Teacher for Source-Free Domain Adaptive Object Detection"
+        authors_html: "Qi He, Xiao Wu, Jun-Yan He, <strong>Shuai Li</strong>."
+        venue: "ICCV 2025"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "Exploring Dynamic Transformer for Efficient Object Tracking"
+        authors_html: "Jiawen Zhu, Xin Chen, Haiwen Diao, <strong>Shuai Li</strong>, Jun-Yan He, Chenyang Li, Bin Luo, Dong Wang, Huchuan Lu."
+        venue: "IEEE TNNLS, 2025"
+        tags: ["CCF-B", "Q1"]
+        paper:
+        code:
+
+      - title: "Open Vocabulary 3D Scene Understanding via Geometry Guided Self-distillation"
+        authors_html: "Pengfei Wang, Yuxi Wang, <strong>Shuai Li</strong>, Zhaoxiang Zhang, Zhen Lei, Lei Zhang."
+        venue: "ECCV 2024"
+        tags: ["CCF-B"]
+        paper:
+        code:
+
+      - title: "UniVS: Unified and Universal Video Segmentation with Prompts as Queries"
+        authors_html: "Minghan Li, <strong>Shuai Li#</strong>, Xindong Zhang, Lei Zhang."
+        venue: "CVPR 2024"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution"
+        authors_html: "Rongyuan Wu, Tao Yang, Lingchen Sun, Zhengqiang Zhang, <strong>Shuai Li</strong>, Lei Zhang."
+        venue: "CVPR 2024"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "FPR: False Positive Rectification for Weakly Supervised Semantic Segmentation"
+        authors_html: "Liyi Chen, Chenyang Lei, Ruihuang Li, <strong>Shuai Li</strong>, Zhaoxiang Zhang, Lei Zhang."
+        venue: "ECCV 2024"
+        tags: ["CCF-B"]
+        paper:
+        code:
+
+      - title: "One-to-Few Label Assignment for End-to-End Dense Detection"
+        authors_html: "<strong>Shuai Li</strong>, Minghan Li, Ruihuang Li, Chenhang He, Lei Zhang."
+        venue: "CVPR 2023"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "DynaMask: Dynamic Mask Selection for Instance Segmentation"
+        authors_html: "Ruihuang Li, Chenhang He, <strong>Shuai Li</strong>, Yabin Zhang, Lei Zhang."
+        venue: "CVPR 2023"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "SIM: Semantic-aware Instance Mask Generation for Box-Supervised Instance Segmentation"
+        authors_html: "Ruihuang Li, Chenhang He, Yabin Zhang, <strong>Shuai Li</strong>, Liyi Chen, Lei Zhang."
+        venue: "CVPR 2023"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "MDQE: Mining Discriminative Query Embeddings to Segment Occluded Instances on Challenging Videos"
+        authors_html: "Minghan Li, <strong>Shuai Li</strong>, Wangmeng Xiang, Lei Zhang."
+        venue: "CVPR 2023"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "MSF: Motion-guided Sequential Fusion for Efficient 3D Object Detection from Point Cloud Sequences"
+        authors_html: "Chenhang He, Ruihuang Li, Yabin Zhang, <strong>Shuai Li</strong>, Lei Zhang."
+        venue: "CVPR 2023"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "One-stage Visual Relationship Referring with Transformers and Adaptive Message Passing"
+        authors_html: "Hang Wang, Youtian Du, Yabin Zhang, <strong>Shuai Li</strong>, Lei Zhang."
+        venue: "IEEE TIP, 2022"
+        tags: ["CCF-A", "Q1"]
+        paper:
+        code:
+
+      - title: "A Dual Weighting Label Assignment Scheme for Object Detection"
+        authors_html: "<strong>Shuai Li</strong>, Chenhang He, Ruihuang Li, Lei Zhang."
+        venue: "CVPR 2022"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "Class-balanced Pixel-level Self-labeling for Domain Adaptive Semantic Segmentation"
+        authors_html: "Ruihuang Li, <strong>Shuai Li</strong>, Chenhang He, Yabin Zhang, Xu Jia, Lei Zhang."
+        venue: "CVPR 2022"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds"
+        authors_html: "Chenhang He, Ruihuang Li, <strong>Shuai Li</strong>, Lei Zhang."
+        venue: "CVPR 2022"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "Category Dictionary Guided Unsupervised Domain Adaptation for Object Detection"
+        authors_html: "<strong>Shuai Li</strong>, Jianqiang Huang, Xian-Sheng Hua, Lei Zhang."
+        venue: "AAAI 2021"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "Spatial Feature Calibration and Temporal Fusion for Effective One-stage Video Instance Segmentation"
+        authors_html: "Minghan Li, <strong>Shuai Li</strong>, Lida Li, Lei Zhang."
+        venue: "CVPR 2021"
+        tags: ["CCF-A"]
+        paper:
+        code:
+
+      - title: "LST-Net: Learning a Convolutional Neural Network with a Learnable Sparse Transform"
+        authors_html: "Lida Li, Kun Wang, <strong>Shuai Li</strong>, Xiangchu Feng, Lei Zhang."
+        venue: "ECCV 2020"
+        tags: ["CCF-B"]
+        paper:
+        code:
+
+      - title: "Dynamic Anchor Feature Selection for Single-Shot Object Detection"
+        authors_html: "<strong>Shuai Li</strong>, Lingxiao Yang, Jianqiang Huang, Xian-Sheng Hua, Lei Zhang."
+        venue: "ICCV 2019"
+        tags: ["CCF-A"]
+        paper:
+        code:
