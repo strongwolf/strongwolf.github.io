@@ -226,6 +226,11 @@ redirect_from:
 
 <ul class="news-list">
   <li>
+    <span class="news-date">[06/2026]</span>
+    <span class="news-tag">ECCV'26:</span>
+    🎉 NegAS is accepted by ECCV (CCF B, Top conference).
+  </li>
+  <li>
     <span class="news-date">[03/2026]</span>
     <span class="news-tag">IJCV'26:</span>
     🎉 RASS is accepted by IJCV (CCF A).

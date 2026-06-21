@@ -3,6 +3,13 @@ intro: "Selected papers are listed first. Equal contribution/Corresponding autho
 sections:
   - title: "Selected Publications"
     items:
+      - title: "NegAS: Negative Label Guided Attention and Scoring for Out-of-Distribution Object Detection with Vision-Language Models"
+        authors_html: "Yingjie Zhang, <strong>Shuai Li*</strong>, Peng Wang."
+        venue: "ECCV 2026"
+        tags: ["CCF-B"]
+        paper:
+        code:
+        
       - title: "GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution"
         authors_html: "Qiaosi Yi, <strong>Shuai Li</strong>, Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang, Lei Zhang."
         venue: "CVPR 2026"
